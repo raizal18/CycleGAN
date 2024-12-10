@@ -1,0 +1,4 @@
+/workspaces/CycleGAN/selfie2anime/testA filter=lfs diff=lfs merge=lfs -text
+/workspaces/CycleGAN/selfie2anime/testB filter=lfs diff=lfs merge=lfs -text
+/workspaces/CycleGAN/selfie2anime/trainA filter=lfs diff=lfs merge=lfs -text
+/workspaces/CycleGAN/selfie2anime/trainB filter=lfs diff=lfs merge=lfs -text
