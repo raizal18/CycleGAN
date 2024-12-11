@@ -45,3 +45,6 @@ Please make sure you specified the correct resource identifiers.
 2024-12-11 09:05:47,536 - INFO - Dataset loaded successfully. Train dataset size: 107, Test dataset size: 4
 2024-12-11 09:05:47,542 - INFO - Loading dataset from C:\Users\Asus\.cache\kagglehub\datasets\arnaud58\selfie2anime\versions\1...
 2024-12-11 09:05:52,349 - INFO - Dataset loaded successfully. Train dataset size: 107, Test dataset size: 4
+2024-12-11 09:23:20,196 - INFO - dataset downloaded
+2024-12-11 09:23:20,205 - INFO - Loading dataset from selfie2anime...
+2024-12-11 09:23:30,399 - INFO - Dataset loaded successfully. Train dataset size: 107, Test dataset size: 4
